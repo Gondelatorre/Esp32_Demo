@@ -1,11 +1,10 @@
 
 
-Esp32 - Demo 
+# Esp32 - Demo 
 
-Demo de funcionalidad 
-	Wifi
-	Tft
+Demo de funcionalidad:  
+- Wifi  
+- Tft  
 
-Req.: 
-	lilygo-t-display-s3
-	( proc. esp32-s3 )
+Req.:   
++ lilygo-t-display-s3 ( esp32-s3 )
